@@ -1,4 +1,4 @@
-# AnyDesk ID Reset 🪪
+<h1 align="center">AnyDesk ID Reset</h1>
 
 A safe, one-click tool to reset your AnyDesk ID and remove "Commercial Use Detected" warnings without losing your saved data.
 
